@@ -1,8 +1,8 @@
 # Alisson Faveron
 
-Olá, seja bem vindo/a.
+Olá, seja bem vindo/a,
 
-Sou formado em rádio e TV e atualmente cursando análise e desenvolvimento de sistemas
+Sou formado em rádio e TV e atualmente cursando análise e desenvolvimento de sistemas.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-faveron/)
